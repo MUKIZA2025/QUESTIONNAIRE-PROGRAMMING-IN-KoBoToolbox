@@ -31,7 +31,7 @@ The survey includes six main sections:
 
 3. **Passengers** – displayed only to respondents categorized as passengers. This section collects information on daily transport usage, daily costs, perception of EV cost-effectiveness, and ease of payment on a scale of 1 to 5. Skip logic ensures only relevant respondents see these questions.
 
-4. **Transport Officials** – displayed only to respondents who are transport officials. This section includes questions on knowledge of EV policies, infrastructure readiness (1–5 scale), adoption barriers, incentives, opinion on phasing out fuel vehicles, additional comments, and optional GPS capture. Students learned how to program relevance formulas, scale validations, and GPS configuration.
+4. **Transport Officials** – displayed only to respondents who are transport officials. This section includes questions on knowledge of EV policies, infrastructure readiness (1–5 scale), adoption barriers, incentives, opinion on phasing out fuel vehicles, and additional comments. Students learned how to program relevance formulas, scale validations, and GPS configuration.
 
 5. **Perception and Policy Views** – displayed to all respondents. This section collects opinions on EV adoption, environmental impact, and preferred policies. It includes Likert scale questions, multiple-choice questions with “Other” options, and open-ended text questions for additional recommendations.
 
@@ -43,7 +43,7 @@ The survey includes six main sections:
 
 - Sections are displayed only for relevant respondent categories: Vehicle Owners (motorcycle, bus, private car), Passengers, Transport Officials.
 - “Other” text boxes appear only when “Other” is selected in multiple-choice questions.
-- GPS capture is displayed only for transport officials.
+- GPS capture is displayed to all respondents
 - Students learned to implement complex conditional logic to control the flow of the survey.
 
 ---
@@ -72,7 +72,7 @@ The survey includes six main sections:
 
 - Type: `geopoint`.
 - Accuracy threshold: less than 10 meters.
-- Relevant only for transport officials.
+- GPS visible to all respondents
 - Students learned to program GPS questions with relevance and accuracy constraints.
 
 ---
@@ -100,3 +100,19 @@ Through this project, students learned to:
 - Test and deploy a survey in KoBoToolbox, ready for real-world data collection.
 
 This project serves as a **practical learning tool** for students to understand survey programming, data validation, and logic implementation while using a realistic scenario of Kigali’s potential transition to electric vehicles.
+
+## 👤 Author
+
+**Ezra Habumukiza**
+
+Statistician: Deomgraphy | Data Analyst | Data Instructor
+
+Volunteer Course Instructor – EduConnect Rwanda
+
+Rwanda
+
+## 🔗 Connect with Me
+
+[Ezra Habumukiza on LinkedIn](https://www.linkedin.com/in/mukizaezra)
+
+mukizaezraa@gmail.com | (+250) 780510913
