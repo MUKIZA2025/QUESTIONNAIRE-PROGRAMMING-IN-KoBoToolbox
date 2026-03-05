@@ -1,7 +1,7 @@
 # QUESTIONNAIRE-PROGRAMMING-IN-KoBoToolbox
 ## Questionnaire Preview
 
-![Questionnaire Preview](Dashboard_ScreenShoot.png)
+![Questionnaire Preview](QUESTIONNAIRE.png)
 
 ## Project Overview
 
